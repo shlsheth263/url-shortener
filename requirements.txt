@@ -1,0 +1,10 @@
+
+DateTime==4.3
+dj-database-url==0.5.0
+Django==3.0.7
+django-heroku==0.3.1
+django-widget-tweaks==1.4.1
+mysql-connector==2.2.9
+mysql-connector-python==8.0.20
+mysql-connector-python-rf==2.2.2
+requests==2.20.0
