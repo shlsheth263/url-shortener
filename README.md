@@ -1,4 +1,4 @@
-# URL shortner
+# URL shortener
 This is a python web app that takes long URL and expiry date as input parameters and gives shortned url as output.
 The url redirects to 404 error page once the link is expired(past expiry date)
 I have done 2 different implementations.
